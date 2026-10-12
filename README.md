@@ -21,4 +21,4 @@ pnpm exec vite preview --host 127.0.0.1 --port 4173 --strictPort
 
 계산·저장 자동 검사는 `tests/`에 있다. 사용자 확인과 자동 검사 결과는 `docs/05_테스트결과.md`를 따른다. EPIC은 사용자 확인 전 완료로 표시하지 않는다.
 
-GitHub 저장소 연결 이후 `.github/workflows/check.yml`로 자동 검사할 수 있다. Vercel 설정은 `vercel.json`에 준비했지만 실제 GitHub 업로드·Vercel 외부 배포는 아직 수행하지 않았다. 운영 주소 변경은 브라우저 자료의 자동 이전을 의미하지 않는다. 실제 매장 자료·백업·비밀키를 GitHub나 정적 배포 파일에 포함하지 않는다.
+GitHub 저장소는 [vudghkdhffla-cpu/kwangcheol](https://github.com/vudghkdhffla-cpu/kwangcheol)이며 코드·문서·시안을 main에 업로드했다. `.github/workflows/check.yml`에 자동 검사를 준비했고 Vercel 설정은 `vercel.json`에 있다. Vercel 외부 배포는 아직 수행하지 않았다. 운영 주소 변경은 브라우저 자료의 자동 이전을 의미하지 않는다. 실제 매장 자료·백업·비밀키를 GitHub나 정적 배포 파일에 포함하지 않는다.
